@@ -48,61 +48,61 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Ενασχόληση με την υποστήριξη Πληροφοριακών Συστημάτων.
 
-      Second paragraph if required.
-
+      
 education:
-    - degree: BSc in Computer Science
-      university: University of Crete
+    - degree: Πτυχίο Επιστήμης Υπολογιστών
+      university: Πανεπιστήμιο Κρήτης - Τμήμα Επιστήμης Υπολογιστών
       time: 1985 - 1989
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+     
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Υποστήριξη Πληροφοριακών Συστημάτων
+      time: Ιούνιος 1997 - σήμερα
+      company: Ιόνιο Πανεπιστήμιο - Διεύθυνση Πληροφορικής & Δικτύων - Τμήμα Πληροφοριακών Συστημάτων, Κέρκυρα
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Καθήκοντα υποστήριξης των υπολογιστικών συστημάτων του ιδρύματος και των εφαρμογών μηχανογραφήσεων των διοικητικών και οικονομικών
+        υπηρεσιών.  Στην πορεία του χρόνου, τα καθήκοντα στον τομέα των μηχανογραφήσεων αυξήθηκαν και περιορίστηκαν οι δραστηριότητές μου 
+        στον τομέα υποστήριξης των υπολογιστικών συστημάτων.  
+        
+        Σαν υπεύθυνη υποστήριξης των υπολογιστικών συστημάτων είχα αναλάβει το άνοιγμα νέων λογαριασμών στον κεντρικό υπολογιστή, 
+        την τήρηση αντιγράφων ασφαλείας των δεδομένων που καταχωρούνται σε αυτόν, 
+        την εγκατάσταση νέου λογισμικού σε αυτόν, την παροχή βοήθειας και πληροφοριών στους χρήστες. 
+        
+        Όσον αφορά την υποστήριξη των μηχανογραφήσεων των υπηρεσιών, το Ιόνιο Πανεπιστήμιο διαθέτει Πληροφοριακά Συστήματα για τη λειτουργία 
 
-          - Bullet point
-          - Bullet point
+          - των Γραμματειών των Ακαδημαϊκών Τμημάτων
+          - της Οικονομικής Υπηρεσίας (τμήματα Προϋπολογισμού, Λογιστηρίου και Προμηθειών)
+          - της Μισθοδοσίας
+          - του Προσωπικού (Διοικητικού και Διδακτικού)
+          -	του Πρωτοκόλλου
+        Οι αρμοδιότητές μου περιλαμβάνουν
+            - την εκπαίδευση των υπαλλήλων στη χρήση των διαφόρων εφαρμογών, 
+            - την επίλυση αποριών σχετικών με τις εφαρμογές,
+            - την γενικότερη αντιμετώπιση προβλημάτων που παρουσιάζονται σε επίπεδο χρήσης τόσο των εφαρμογών μηχανογράφησης, όσο και  των εφαρμογών γραφείου,
+            - την έρευνα αγοράς για την ανεύρεση και προμήθεια νέων εφαρμογών ή ηλεκτρονικού εξοπλισμού, που θα διευκολύνει τη λειτουργία των υπηρεσιών του Πανεπιστημίου,
+            - την επικοινωνία με τις προμηθεύτριες εταιρείες για 
+                - την παραλαβή και εγκατάσταση νέων εκδόσεων των εφαρμογών, 
+                - τη διενέργεια εξειδικευμένων διαδικασιών που απαιτούν ειδικές γνώσεις, 
+                - την επίλυση προβλημάτων και αποριών που αντιμετωπίζουν οι τοπικοί χρήστες.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Ανάλυση - Προγραμματισμός
+      time: 1989 - Μάιος 1997
+      company: Πανεπιστήμιο Κρήτης - Υπολογιστικό Κέντρο, Ηράκλειο
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Μέλος της ομάδας μηχανογράφησης βιβλιοθήκης του Υπολογιστικού Κέντρου του Πανεπιστημίου Κρήτης.  Οι βασικές δραστηριότητές μου ήταν  
 
-          - Bullet point
-          - Bullet point
+            - συμμετοχή στην ανάλυση, σχεδιασμό και υλοποίηση του ολοκληρωμένου πακέτου μηχανογράφησης βιβλιοθήκης “ΠΤΟΛΕΜΑΙΟΣ ΙΙ”,
+            - συντήρηση και περαιτέρω ανάπτυξη του παραπάνω πακέτου, 
+            - γενική επίβλεψη και ευθύνη για τις κατά τόπους εγκαταστάσεις του πακέτου και εκπαίδευση των πελατών, 
+            - εξυπηρέτηση πελατών,
+            - γενική επίβλεψη και ευθύνη για τη συγγραφή εγχειριδίων και διαφημιστικών φυλλαδίων της ομάδας.
 
-    - role: UI Developer
+        Στο πλαίσιο της απασχόλησής μου στην ομάδα απέκτησα εμπειρία στο σχεδιασμό και την ανάπτυξη εφαρμογών που χειρίζονται σχεσιακές
+        βάσεις δεδομένων σε περιβάλλοντα παραγωγής.   
+
+      - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
       details: |
