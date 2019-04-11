@@ -13,13 +13,14 @@ sidebar:
 
     # Sidebar links
     email: corina@ionio.gr
-    phone: +30 6944 765282
+    phone: +30 694 476 5282
     website:  #do not add http://
     linkedin: Corina Anthi
     github: c18anthi
     gitlab:
     bitbucket:
     twitter: '@CorinaAnthi'
+    facebook: 'Κορίνα Άνθη'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -35,13 +36,13 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Trecking
+      - item: Μουσική
         link:
 
-      - item: Knitting
+      - item: Κινηματογράφος
         link:
 
-      - item: Cooking
+      - item: Μαγειρική
         link:
 
 career-profile:
